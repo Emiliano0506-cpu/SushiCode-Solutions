@@ -10,5 +10,5 @@ coherencia entre ellos; Al igual que ver los puntos de la lista de cotejo.
 A mi me toco revisar que el alcance del prototipo sea realista en 3 sprints, propuse una pila tecnologica, converti los riesgos en una tabla con probabilidades. Por ultimo puse metas numericas al objetivo general.
 - Luna Teran David Omar
 
-A mi Ana me toco editar y corregir la parte del Product Vision Board, ya que teniamos informacion inecesaria, dejando solo la parte importante, ademas de darle una validacion con un interesado 
+A mi Ana me toco editar y corregir la parte de interesados y usuarios, asi como los requisitos del proyecto, entre otras cosas, en donde se mejoro el contenido. 
   -Ana Patricia Corral
