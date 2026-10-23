@@ -12,5 +12,5 @@ A mi me toco poner la cotización de la sección 6, al igual que poner los recur
 
 - Luna Teran David Omar
 
-A mi Ana me toco editar y corregir la parte de interesados y usuarios, asi como los requisitos del proyecto, entre otras cosas, en donde se mejoro el contenido. 
+Me tocó coordinar la planeación y el calendario inicial, investigar el flujo real con un encargado de restaurante y diseñar los prototipos visuales de las pantallas. En la parte de desarrollo, programé el módulo de notas y alergias resaltadas, así como los tickets electrónicos, y al final me encargué de ejecutar las pruebas funcionales del sistema 
   -Ana Patricia Corral
