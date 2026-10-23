@@ -7,6 +7,7 @@ A mi me toco realizar la parte final del documento que fue ver el avance de los 
 coherencia entre ellos; Al igual que ver los puntos de la lista de cotejo.
 
 - Macias Ramos Dulce Sarahi.
+
 A mi me toco poner la cotización de la sección 6, al igual que poner los recursos tecnológicos de la sección 7 y por último agregar la foto de las cotizaciones que se hicieron.
 
 - Luna Teran David Omar
