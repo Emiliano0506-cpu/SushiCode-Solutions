@@ -8,7 +8,7 @@ coherencia entre ellos; Al igual que ver los puntos de la lista de cotejo.
 
 - Macias Ramos Dulce Sarahi.
 
-A mi me toco poner la cotización de la sección 6, al igual que poner los recursos tecnológicos de la sección 7 y por último agregar la foto de las cotizaciones que se hicieron.
+A mi me toco hacer el archivo PERT donde se validaron los valores y nombres de cada integrante, al igual que agregar los valores al archivo word, al igual que hice la parte de la sección 4 de Red PERT y ruta crítica donde se completo la toda la tabla.
 
 - Luna Teran David Omar
 
