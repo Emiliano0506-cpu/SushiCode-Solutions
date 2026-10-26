@@ -12,5 +12,5 @@ A mi me toco hacer el archivo PERT donde se validaron los valores y nombres de c
 
 - Luna Teran David Omar
 
-Me tocó coordinar la planeación y el calendario inicial, investigar el flujo real con un encargado de restaurante y diseñar los prototipos visuales de las pantallas. En la parte de desarrollo, programé el módulo de notas y alergias resaltadas, así como los tickets electrónicos, y al final me encargué de ejecutar las pruebas funcionales del sistema 
+Me tocó realizar la revisión de las técnicas de planeación, las fechas del cronograma y la línea base del proyecto. También revisé las preguntas de reflexión, las listas de cotejo de las actividades A05, A06 y A07, y la declaración del uso de inteligencia artificial.
   -Ana Patricia Corral
